@@ -8,5 +8,13 @@
     <artifactId>algorithm</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <dependencies>
+        <!-- https://mvnrepository.com/artifact/edu.princeton.cs/algs4 -->
+        <dependency>
+            <groupId>edu.princeton.cs</groupId>
+            <artifactId>algs4</artifactId>
+            <version>1.0.2</version>
+        </dependency>
 
+    </dependencies>
 </project>
